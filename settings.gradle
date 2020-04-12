@@ -1,0 +1,2 @@
+rootProject.name='Nsut Campus Navigator'
+include ':app'
